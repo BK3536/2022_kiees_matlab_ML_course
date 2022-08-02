@@ -1,10 +1,16 @@
 ## 2022 KIEES Summer MATLAB Short Course #4
 
-- Author: Byungkwan Kim (byungkwan.kim@cnu.ac.kr)
+- Author: 김병관 (byungkwan.kim@cnu.ac.kr)
 - Date: 2022.08.05, 12 (Fri)
 
+#### Contributors
+- 김동률 (ehdfbf0911@o.cnu.ac.kr)
+- 윤준석 (yjsyjs1209@o.cnu.ac.kr)
+- 정다은 (201601217@o.cnu.ac.kr)
+- 천성필 (tjdvlf1997@o.cnu.ac.kr)
+
 #### Requirement
-- Mathworks MATLAB 2021a or Higher (Tested at 2022a)
+- Mathworks MATLAB (Tested at 2022a)
 - Statistics and Machine Learning Toolbox
 - Deep Learning Toolbox
 - (Optional) Parallel Computing Toolbox
