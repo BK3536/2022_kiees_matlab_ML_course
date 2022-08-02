@@ -1,4 +1,4 @@
-## 2022 KIEES Summer MATLAB Short Course #4
+## 2022 KIEES Summer MATLAB Short Course #4 (하계 전파교육 단기강좌 #4)
 
 - Author: 김병관 (byungkwan.kim@cnu.ac.kr)
 - Date: 2022.08.05, 12 (Fri)
@@ -20,4 +20,4 @@
 - Scholl, S. (2019). Classification of radio signals and hf transmission modes with deep learning. arXiv preprint arXiv:1906.04459. (https://arxiv.org/pdf/1906.04459.pdf)
 
 #### License 
-These materials are available under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) (CC BY-SA 3.0) license.
+These materials are available under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.
