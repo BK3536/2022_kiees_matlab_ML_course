@@ -1,9 +1,11 @@
-## 2022 KIEES Summer MATLAB Short Course #4 (하계 전파교육 단기강좌 #4)
+## KIEES Summer MATLAB Short Course #4 (하계 전파교육 단기강좌 #4)
 
 - Author: 김병관 (byungkwan.kim@cnu.ac.kr)
-- Date: 2022.08.05, 12 (Fri)
+- 2022.08.05, 12 (Fri)
+- 2023.08.04, 11 (Fri)
 
 #### Contributors
+- 김진하 (jinha.kim@o.cnu.ac.kr)
 - 김동률 (ehdfbf0911@o.cnu.ac.kr)
 - 윤준석 (yjsyjs1209@o.cnu.ac.kr)
 - 정다은 (201601217@o.cnu.ac.kr)
